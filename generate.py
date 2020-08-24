@@ -1,7 +1,7 @@
 import os
 
 path = 'imgs'
-prefix = 'https://cdn.jsdelivr.net/gh/xieqiaokang/2014-huangshan/'
+prefix = '![](https://cdn.jsdelivr.net/gh/xieqiaokang/2014-huangshan/'
 final_str = '<photos>'
 
 img_list = os.listdir(path)
